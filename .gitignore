@@ -1,4 +1,7 @@
 __pycache__/
 ships32/
-logs/
 model.png
+
+# Training
+logs/
+keras_tuner_dir/
